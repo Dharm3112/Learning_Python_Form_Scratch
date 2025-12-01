@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="created new project">
-      <change afterPath="$PROJECT_DIR$/01_age_group_categourization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_move_tickit_pricing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Grade_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Fruit_Ripeness_Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Weather_Activity_Suggestion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Practicing Some Projects">
+      <change beforePath="$PROJECT_DIR$/05_Weather_Activity_Suggestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Weather_Activity_Suggestion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +57,7 @@
     "Python.02_move_tickit_pricing.executor": "Run",
     "Python.03_Grade_Calculator.executor": "Run",
     "Python.05_Fruit_Ripeness_Checker.executor": "Run",
+    "Python.05_Weather_Activity_Suggestion.executor": "Run",
     "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
@@ -103,7 +98,7 @@
       <workItem from="1764485240503" duration="4952000" />
       <workItem from="1764499550867" duration="1676000" />
       <workItem from="1764502436000" duration="5508000" />
-      <workItem from="1764566032636" duration="3120000" />
+      <workItem from="1764566032636" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -113,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764227207449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practicing Some Projects">
+      <option name="closed" value="true" />
+      <created>1764569276490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764569276490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practicing Some Projects">
+      <option name="closed" value="true" />
+      <created>1764569312318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764569312318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new project" />
+    <MESSAGE value="Practicing Some Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practicing Some Projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
