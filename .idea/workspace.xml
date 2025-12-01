@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Practicing Some Projects">
-      <change beforePath="$PROJECT_DIR$/05_Weather_Activity_Suggestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Weather_Activity_Suggestion.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Project 06">
+      <change afterPath="$PROJECT_DIR$/07_Coffee_Customization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,8 @@
     "Python.03_Grade_Calculator.executor": "Run",
     "Python.05_Fruit_Ripeness_Checker.executor": "Run",
     "Python.05_Weather_Activity_Suggestion.executor": "Run",
+    "Python.06_Mode_Of_Transportation.executor": "Run",
+    "Python.07_Coffee_Customization.executor": "Run",
     "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
@@ -98,7 +101,7 @@
       <workItem from="1764485240503" duration="4952000" />
       <workItem from="1764499550867" duration="1676000" />
       <workItem from="1764502436000" duration="5508000" />
-      <workItem from="1764566032636" duration="3515000" />
+      <workItem from="1764566032636" duration="4124000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -124,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764569312318</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done Practice Project 05">
+      <option name="closed" value="true" />
+      <created>1764569599579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764569599579</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done Practice Project 06">
+      <option name="closed" value="true" />
+      <created>1764569829926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764569829926</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +180,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new project" />
     <MESSAGE value="Practicing Some Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practicing Some Projects" />
+    <MESSAGE value="Done Practice Project 05" />
+    <MESSAGE value="Done Practice Project 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Project 06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -182,7 +203,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1764227039598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Weather_Activity_Suggestion.coverage" NAME="05_Weather_Activity_Suggestion Coverage Results" MODIFIED="1764569562548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$06_Mode_Of_Transportation.coverage" NAME="06_Mode_Of_Transportation Coverage Results" MODIFIED="1764569815627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$03_Grade_Calculator.coverage" NAME="03_Grade_Calculator Coverage Results" MODIFIED="1764568624659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$07_Coffee_Customization.coverage" NAME="07_Coffee_Customization Coverage Results" MODIFIED="1764570268571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$learn.coverage" NAME="learn Coverage Results" MODIFIED="1764567917639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1764227150841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_move_tickit_pricing.coverage" NAME="02_move_tickit_pricing Coverage Results" MODIFIED="1764568300176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
