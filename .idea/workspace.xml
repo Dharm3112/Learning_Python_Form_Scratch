@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Loop Project 07">
-      <change afterPath="$PROJECT_DIR$/Practice Loop Projects/08_Prime_Number_Cheaker.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Loop Project 08">
+      <change afterPath="$PROJECT_DIR$/Practice Loop Projects/09_List_Uniqueness_Cheacker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <workItem from="1764502436000" duration="5508000" />
       <workItem from="1764566032636" duration="5262000" />
       <workItem from="1764571420879" duration="29000" />
-      <workItem from="1764571508019" duration="2451000" />
+      <workItem from="1764571508019" duration="3057000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -275,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764574762531</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Done Practice Loop Project 08">
+      <option name="closed" value="true" />
+      <created>1764575056632</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1764575056632</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +335,8 @@
     <MESSAGE value="Done Practice Loop Project 05" />
     <MESSAGE value="Done Practice Loop Project 06" />
     <MESSAGE value="Done Practice Loop Project 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Loop Project 07" />
+    <MESSAGE value="Done Practice Loop Project 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Loop Project 08" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$08_Password_Strength_Checker.coverage" NAME="08_Password_Strength_Checker Coverage Results" MODIFIED="1764570451220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
