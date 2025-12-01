@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Project 08">
-      <change afterPath="$PROJECT_DIR$/09_Leap_Year_Calculator.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Project 09">
+      <change afterPath="$PROJECT_DIR$/10_Pet_Food_Reccomendation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.06_Mode_Of_Transportation.executor": "Run",
     "Python.07_Coffee_Customization.executor": "Run",
     "Python.08_Password_Strength_Checker.executor": "Run",
+    "Python.09_Leap_Year_Calculator.executor": "Run",
     "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
@@ -101,7 +102,7 @@
       <workItem from="1764485240503" duration="4952000" />
       <workItem from="1764499550867" duration="1676000" />
       <workItem from="1764502436000" duration="5508000" />
-      <workItem from="1764566032636" duration="4453000" />
+      <workItem from="1764566032636" duration="4880000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764570464651</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done Practice Project 09">
+      <option name="closed" value="true" />
+      <created>1764570627455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764570627455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +209,8 @@
     <MESSAGE value="Done Practice Project 06" />
     <MESSAGE value="Done Practice Project 07" />
     <MESSAGE value="Done Practice Project 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Project 08" />
+    <MESSAGE value="Done Practice Project 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Project 09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
