@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Loop Project 08">
-      <change afterPath="$PROJECT_DIR$/Practice Loop Projects/09_List_Uniqueness_Cheacker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Loop Project 09">
+      <change afterPath="$PROJECT_DIR$/Practice Loop Projects/10_Exponential_Backoff.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "Python.08_Password_Strength_Checker.executor": "Run",
     "Python.08_Prime_Number_Cheaker.executor": "Run",
     "Python.09_Leap_Year_Calculator.executor": "Run",
+    "Python.09_List_Uniqueness_Cheacker.executor": "Run",
     "Python.10_Pet_Food_Reccomendation.executor": "Run",
     "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
@@ -114,7 +114,7 @@
       <workItem from="1764502436000" duration="5508000" />
       <workItem from="1764566032636" duration="5262000" />
       <workItem from="1764571420879" duration="29000" />
-      <workItem from="1764571508019" duration="3057000" />
+      <workItem from="1764571508019" duration="3366000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -284,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764575056632</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Done Practice Loop Project 09">
+      <option name="closed" value="true" />
+      <created>1764575758789</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1764575758789</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +344,8 @@
     <MESSAGE value="Done Practice Loop Project 06" />
     <MESSAGE value="Done Practice Loop Project 07" />
     <MESSAGE value="Done Practice Loop Project 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Loop Project 08" />
+    <MESSAGE value="Done Practice Loop Project 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Loop Project 09" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$08_Password_Strength_Checker.coverage" NAME="08_Password_Strength_Checker Coverage Results" MODIFIED="1764570451220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -350,6 +359,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1764227150841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$01_Counting_Positive_Numbers.coverage" NAME="01_Counting_Positive_Numbers Coverage Results" MODIFIED="1764572060095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Find_First_Non_Repeated_Letter.coverage" NAME="05_Find_First_Non_Repeated_Letter Coverage Results" MODIFIED="1764573038745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
+    <SUITE FILE_PATH="coverage/PythonProject1$09_List_Uniqueness_Cheacker.coverage" NAME="09_List_Uniqueness_Cheacker Coverage Results" MODIFIED="1764575739620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Validate_Input.coverage" NAME="07_Validate_Input Coverage Results" MODIFIED="1764574736401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Weather_Activity_Suggestion.coverage" NAME="05_Weather_Activity_Suggestion Coverage Results" MODIFIED="1764569562548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$06_Mode_Of_Transportation.coverage" NAME="06_Mode_Of_Transportation Coverage Results" MODIFIED="1764569815627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
