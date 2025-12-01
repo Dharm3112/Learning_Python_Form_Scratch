@@ -18,4 +18,8 @@ def name(x):
 
 name("dharm")
 
+name1 = "suresh"
+name2 = "ram"
+name3 = "shyam"
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
