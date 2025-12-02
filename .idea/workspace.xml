@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Function Project 07">
-      <change afterPath="$PROJECT_DIR$/Practice Function Problems/08_Function_With_Kwargs.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Function Project 08">
+      <change afterPath="$PROJECT_DIR$/Practice Function Problems/09_Generator_Function_With_Yield.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +75,10 @@
     "Python.07_Coffee_Customization.executor": "Run",
     "Python.07_Function_With_Args.executor": "Run",
     "Python.07_Validate_Input.executor": "Run",
+    "Python.08_Function_With_Kwargs.executor": "Run",
     "Python.08_Password_Strength_Checker.executor": "Run",
     "Python.08_Prime_Number_Cheaker.executor": "Run",
+    "Python.09_Generator_Function_With_Yield.executor": "Run",
     "Python.09_Leap_Year_Calculator.executor": "Run",
     "Python.09_List_Uniqueness_Cheacker.executor": "Run",
     "Python.10_Exponential_Backoff.executor": "Run",
@@ -124,7 +127,7 @@
       <workItem from="1764571420879" duration="29000" />
       <workItem from="1764571508019" duration="3482000" />
       <workItem from="1764578445021" duration="301000" />
-      <workItem from="1764654451179" duration="5297000" />
+      <workItem from="1764654451179" duration="5891000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -382,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764660081448</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Done Practice Function Project 08">
+      <option name="closed" value="true" />
+      <created>1764660449758</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1764660449759</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practicing Some Projects" />
     <MESSAGE value="Done Practice Project 05" />
     <MESSAGE value="Done Practice Project 06" />
     <MESSAGE value="Done Practice Project 07" />
@@ -442,7 +452,8 @@
     <MESSAGE value="Done Practice Function Project 05" />
     <MESSAGE value="Done Practice Function Project 06" />
     <MESSAGE value="Done Practice Function Project 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Function Project 07" />
+    <MESSAGE value="Done Practice Function Project 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Function Project 08" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -473,6 +484,8 @@
     <SUITE FILE_PATH="coverage/PythonProject1$03_Grade_Calculator.coverage" NAME="03_Grade_Calculator Coverage Results" MODIFIED="1764568624659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$10_Exponential_Backoff.coverage" NAME="10_Exponential_Backoff Coverage Results" MODIFIED="1764576021135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Fruit_Ripeness_Checker.coverage" NAME="05_Fruit_Ripeness_Checker Coverage Results" MODIFIED="1764568841567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$08_Function_With_Kwargs.coverage" NAME="08_Function_With_Kwargs Coverage Results" MODIFIED="1764660411288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
+    <SUITE FILE_PATH="coverage/PythonProject1$09_Generator_Function_With_Yield.coverage" NAME="09_Generator_Function_With_Yield Coverage Results" MODIFIED="1764660728408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$04_Function_Returning_Multiple_Values.coverage" NAME="04_Function_Returning_Multiple_Values Coverage Results" MODIFIED="1764658867711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
   </component>
 </project>
