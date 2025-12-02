@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Function Project 05">
-      <change afterPath="$PROJECT_DIR$/Practice Function Problems/06_Lamda_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Function Project 06">
+      <change afterPath="$PROJECT_DIR$/Practice Function Problems/07_Function_With_Args.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
     "Python.05_Fruit_Ripeness_Checker.executor": "Run",
     "Python.05_Weather_Activity_Suggestion.executor": "Run",
     "Python.06_Factorial_Calculator.executor": "Run",
+    "Python.06_Lamda_Function.executor": "Run",
     "Python.06_Mode_Of_Transportation.executor": "Run",
     "Python.07_Coffee_Customization.executor": "Run",
     "Python.07_Validate_Input.executor": "Run",
@@ -123,7 +123,7 @@
       <workItem from="1764571420879" duration="29000" />
       <workItem from="1764571508019" duration="3482000" />
       <workItem from="1764578445021" duration="301000" />
-      <workItem from="1764654451179" duration="4695000" />
+      <workItem from="1764654451179" duration="4995000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -365,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764659032359</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Done Practice Function Project 06">
+      <option name="closed" value="true" />
+      <created>1764659677403</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1764659677403</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +432,8 @@
     <MESSAGE value="Done Practice Function Project 03" />
     <MESSAGE value="Done Practice Function Project 04" />
     <MESSAGE value="Done Practice Function Project 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Function Project 05" />
+    <MESSAGE value="Done Practice Function Project 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Function Project 06" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -435,6 +444,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$07_Validate_Input.coverage" NAME="07_Validate_Input Coverage Results" MODIFIED="1764574736401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Weather_Activity_Suggestion.coverage" NAME="05_Weather_Activity_Suggestion Coverage Results" MODIFIED="1764569562548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$10_Pet_Food_Reccomendation.coverage" NAME="10_Pet_Food_Reccomendation Coverage Results" MODIFIED="1764571116046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$06_Lamda_Function.coverage" NAME="06_Lamda_Function Coverage Results" MODIFIED="1764659651415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$08_Prime_Number_Cheaker.coverage" NAME="08_Prime_Number_Cheaker Coverage Results" MODIFIED="1764575028279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_move_tickit_pricing.coverage" NAME="02_move_tickit_pricing Coverage Results" MODIFIED="1764568300176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_Function_With_Multiple_Paremeters.coverage" NAME="02_Function_With_Multiple_Paremeters Coverage Results" MODIFIED="1764658264660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
