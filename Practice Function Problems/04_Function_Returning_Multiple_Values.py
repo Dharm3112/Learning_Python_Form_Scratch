@@ -1,6 +1,11 @@
 import math
 
 def circle_radius(radius):
-    return math.pi * radius ** 2
+    area = math.pi * radius ** 2
+    curcumference = 2 * math.pi * radius
+    return area,curcumference
 
-print(circle_radius(5))
+a , c = circle_radius(5)
+
+print("Area", a, "Curcumference : ", c)
+
