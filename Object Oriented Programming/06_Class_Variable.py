@@ -33,7 +33,7 @@ print(Car.total_car())
 safari = Car("Tata", "Safari", 2022)
 print(Car.fuel_type())
 
-# mycar = Car("My car", "My car model", 2020)
+# mycar = Car("My car", "My car model",  2020)
 # print(mycar.full_name())
 #
 # mynercar = Car("Nerc", "Nerc model", 2020)
