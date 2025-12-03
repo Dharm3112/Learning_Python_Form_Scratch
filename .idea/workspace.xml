@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Object Oriented Programming Project 02">
-      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/03_Inheretence.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Object Oriented Programming Project 03">
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/04_Encapsulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,7 @@
       <workItem from="1764578445021" duration="301000" />
       <workItem from="1764654451179" duration="8403000" />
       <workItem from="1764670206758" duration="2629000" />
-      <workItem from="1764741975854" duration="319000" />
+      <workItem from="1764741975854" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -448,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764742166576</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Done Practice Object Oriented Programming Project 03">
+      <option name="closed" value="true" />
+      <created>1764742584756</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1764742584756</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Practice Project 10" />
     <MESSAGE value="Combined All Practice Folders In One File Named &quot;Practice If Else Projects&quot;" />
     <MESSAGE value="Done Practice Loop Project 01" />
     <MESSAGE value="Done Practice Loop Project 02" />
@@ -508,7 +515,8 @@
     <MESSAGE value="Done Practice Scope Project 01" />
     <MESSAGE value="Done Practice Object Oriented Programming Project 01" />
     <MESSAGE value="Done Practice Object Oriented Programming Project 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Object Oriented Programming Project 02" />
+    <MESSAGE value="Done Practice Object Oriented Programming Project 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Object Oriented Programming Project 03" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -516,7 +524,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$03_Polymorphism_in_Functions.coverage" NAME="03_Polymorphism_in_Functions Coverage Results" MODIFIED="1764658447719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Function_With_Args.coverage" NAME="07_Function_With_Args Coverage Results" MODIFIED="1764659931541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$01_Basic_Class_Method.coverage" NAME="01_Basic_Class Method Coverage Results" MODIFIED="1764671931385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
-    <SUITE FILE_PATH="coverage/PythonProject1$03_Inheretence.coverage" NAME="03_Inheretence Coverage Results" MODIFIED="1764742336944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
+    <SUITE FILE_PATH="coverage/PythonProject1$03_Inheretence.coverage" NAME="03_Inheretence Coverage Results" MODIFIED="1764742565545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/PythonProject1$01_Basic_Function_Syntax.coverage" NAME="01_Basic_Function_Syntax Coverage Results" MODIFIED="1764658077514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$09_List_Uniqueness_Cheacker.coverage" NAME="09_List_Uniqueness_Cheacker Coverage Results" MODIFIED="1764575739620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Validate_Input.coverage" NAME="07_Validate_Input Coverage Results" MODIFIED="1764574736401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
