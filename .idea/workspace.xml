@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Decorators Project 01">
-      <change afterPath="$PROJECT_DIR$/Decorators/02_Debugging_Function_Calls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Fixed Some Bugs Of 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +145,7 @@
       <workItem from="1764741975854" duration="1392000" />
       <workItem from="1764751460286" duration="2612000" />
       <workItem from="1764827771113" duration="2013000" />
-      <workItem from="1764845860860" duration="1217000" />
+      <workItem from="1764845860860" duration="1547000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -526,7 +523,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764847191807</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Done Practice Decorators Project 02">
+      <option name="closed" value="true" />
+      <created>1764847653046</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1764847653046</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Fixed Some Bugs Of 01">
+      <option name="closed" value="true" />
+      <created>1764847719746</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1764847719746</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,8 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Practice Loop Project 05" />
-    <MESSAGE value="Done Practice Loop Project 06" />
     <MESSAGE value="Done Practice Loop Project 07" />
     <MESSAGE value="Done Practice Loop Project 08" />
     <MESSAGE value="Done Practice Loop Project 09" />
@@ -586,7 +597,9 @@
     <MESSAGE value="Done Practice Object Oriented Programming Project 06" />
     <MESSAGE value="Done Practice Object Oriented Programming Project 08" />
     <MESSAGE value="Done Practice Decorators Project 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Decorators Project 01" />
+    <MESSAGE value="Done Practice Decorators Project 02" />
+    <MESSAGE value="Fixed Some Bugs Of 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Some Bugs Of 01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
