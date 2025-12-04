@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Fixed Some Bugs Of 01" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Renamed All Folders In Sequence What I Learned By Sequence">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,23 +147,7 @@
       <workItem from="1764741975854" duration="1392000" />
       <workItem from="1764751460286" duration="2612000" />
       <workItem from="1764827771113" duration="2013000" />
-      <workItem from="1764845860860" duration="1547000" />
-    </task>
-    <task id="LOCAL-00001" summary="created new project">
-      <option name="closed" value="true" />
-      <created>1764227207449</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1764227207449</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Practicing Some Projects">
-      <option name="closed" value="true" />
-      <created>1764569276490</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1764569276490</updated>
+      <workItem from="1764845860860" duration="2111000" />
     </task>
     <task id="LOCAL-00003" summary="Practicing Some Projects">
       <option name="closed" value="true" />
@@ -539,7 +525,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764847719746</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Done Practice Decorators Project 03">
+      <option name="closed" value="true" />
+      <created>1764847778577</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1764847778579</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Renamed All Folders In Sequence What I Learned By Sequence">
+      <option name="closed" value="true" />
+      <created>1764847979549</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1764847979549</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,8 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Practice Loop Project 07" />
-    <MESSAGE value="Done Practice Loop Project 08" />
     <MESSAGE value="Done Practice Loop Project 09" />
     <MESSAGE value="Done Practice Loop Project 10" />
     <MESSAGE value="Done Practice Function Project 01" />
@@ -599,7 +599,9 @@
     <MESSAGE value="Done Practice Decorators Project 01" />
     <MESSAGE value="Done Practice Decorators Project 02" />
     <MESSAGE value="Fixed Some Bugs Of 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Some Bugs Of 01" />
+    <MESSAGE value="Done Practice Decorators Project 03" />
+    <MESSAGE value="Renamed All Folders In Sequence What I Learned By Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed All Folders In Sequence What I Learned By Sequence" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -616,7 +618,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$10_Pet_Food_Reccomendation.coverage" NAME="10_Pet_Food_Reccomendation Coverage Results" MODIFIED="1764571116046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$06_Lamda_Function.coverage" NAME="06_Lamda_Function Coverage Results" MODIFIED="1764659651415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$08_Prime_Number_Cheaker.coverage" NAME="08_Prime_Number_Cheaker Coverage Results" MODIFIED="1764575028279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
-    <SUITE FILE_PATH="coverage/PythonProject1$01_Timing_Function_Execution.coverage" NAME="01_Timing_Function_Execution Coverage Results" MODIFIED="1764847119432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
+    <SUITE FILE_PATH="coverage/PythonProject1$01_Timing_Function_Execution.coverage" NAME="01_Timing_Function_Execution Coverage Results" MODIFIED="1764847685253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_move_tickit_pricing.coverage" NAME="02_move_tickit_pricing Coverage Results" MODIFIED="1764568300176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_Function_With_Multiple_Paremeters.coverage" NAME="02_Function_With_Multiple_Paremeters Coverage Results" MODIFIED="1764658264660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$01_Scope.coverage" NAME="01_Scope Coverage Results" MODIFIED="1764663373584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scopes" />
