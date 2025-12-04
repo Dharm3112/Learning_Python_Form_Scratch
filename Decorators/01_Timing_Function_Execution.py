@@ -1,17 +1,17 @@
 import time
-# from turtledemo.penrose import start
 
-
-def timing(func):
+def timer(func):
     def wrapper(*args, **kwargs):
+        start = time.time()
         result = func(*args, **kwargs)
         end = time.time()
         print(f"{func.__name__} ran in {end-start} time")
         return result
     return wrapper
 
-@timing
-def hello_world(n):
+
+@timer
+def example_function(n):
     time.sleep(n)
 
-hello_world(2)
+example_function(2)
