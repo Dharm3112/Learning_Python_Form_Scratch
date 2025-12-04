@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Renamed All Folders In Sequence What I Learned By Sequence">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Created error_handle.py">
+      <change beforePath="$PROJECT_DIR$/07_Error_Handling/youtube.txt" beforeDir="false" afterPath="$PROJECT_DIR$/07_Error_Handling/youtube.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
     "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
+    "Python.youtube_manager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -147,31 +148,7 @@
       <workItem from="1764741975854" duration="1392000" />
       <workItem from="1764751460286" duration="2612000" />
       <workItem from="1764827771113" duration="2013000" />
-      <workItem from="1764845860860" duration="2111000" />
-    </task>
-    <task id="LOCAL-00003" summary="Practicing Some Projects">
-      <option name="closed" value="true" />
-      <created>1764569312318</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1764569312318</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Done Practice Project 05">
-      <option name="closed" value="true" />
-      <created>1764569599579</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1764569599579</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Done Practice Project 06">
-      <option name="closed" value="true" />
-      <created>1764569829926</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1764569829926</updated>
+      <workItem from="1764845860860" duration="2413000" />
     </task>
     <task id="LOCAL-00006" summary="Done Practice Project 07">
       <option name="closed" value="true" />
@@ -541,7 +518,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764847979549</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Created youtube_manager.py">
+      <option name="closed" value="true" />
+      <created>1764848393988</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1764848393988</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Created youtube.txt">
+      <option name="closed" value="true" />
+      <created>1764848447273</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1764848447273</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Created error_handle.py">
+      <option name="closed" value="true" />
+      <created>1764848489406</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1764848489406</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,9 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Practice Loop Project 09" />
-    <MESSAGE value="Done Practice Loop Project 10" />
-    <MESSAGE value="Done Practice Function Project 01" />
     <MESSAGE value="Done Practice Function Project 02" />
     <MESSAGE value="Done Practice Function Project 03" />
     <MESSAGE value="Done Practice Function Project 04" />
@@ -601,7 +599,10 @@
     <MESSAGE value="Fixed Some Bugs Of 01" />
     <MESSAGE value="Done Practice Decorators Project 03" />
     <MESSAGE value="Renamed All Folders In Sequence What I Learned By Sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed All Folders In Sequence What I Learned By Sequence" />
+    <MESSAGE value="Created youtube_manager.py" />
+    <MESSAGE value="Created youtube.txt" />
+    <MESSAGE value="Created error_handle.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created error_handle.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -626,6 +627,7 @@
     <SUITE FILE_PATH="coverage/PythonProject1$08_Password_Strength_Checker.coverage" NAME="08_Password_Strength_Checker Coverage Results" MODIFIED="1764570451220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1764227039598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$02_Debugging_Function_Calls.coverage" NAME="02_Debugging_Function_Calls Coverage Results" MODIFIED="1764847640646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorators" />
+    <SUITE FILE_PATH="coverage/PythonProject1$youtube_manager.coverage" NAME="youtube_manager Coverage Results" MODIFIED="1764848557703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Error_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Coffee_Customization.coverage" NAME="07_Coffee_Customization Coverage Results" MODIFIED="1764570287150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$10_Recursive_Function.coverage" NAME="10_Recursive_Function Coverage Results" MODIFIED="1764661021370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Static_Method.coverage" NAME="07_Static_Method Coverage Results" MODIFIED="1764754191964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
