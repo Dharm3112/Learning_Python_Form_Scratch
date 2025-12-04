@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Object Oriented Programming Project 05">
-      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/06_Class_Variable.py" afterDir="false" />
+    <list default="true" id="b903ba9e-05dd-4469-a5c2-6444900cbae8" name="Changes" comment="Done Practice Object Oriented Programming Project 06">
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming/07_Static_Method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,63 +52,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.01_Basic_Class Method.executor": "Run",
-    "Python.01_Basic_Function_Syntax.executor": "Run",
-    "Python.01_Counting_Positive_Numbers.executor": "Run",
-    "Python.01_Scope.executor": "Run",
-    "Python.02_Class_Method_Self.executor": "Run",
-    "Python.02_Function_With_Multiple_Paremeters.executor": "Run",
-    "Python.02_Sum_Of_Even_Numbers.executor": "Run",
-    "Python.02_move_tickit_pricing.executor": "Run",
-    "Python.03_Grade_Calculator.executor": "Run",
-    "Python.03_Inheretence.executor": "Run",
-    "Python.03_Multiplication_Table_Printer.executor": "Run",
-    "Python.03_Polymorphism_in_Functions.executor": "Run",
-    "Python.04_Encapsulation.executor": "Run",
-    "Python.04_Function_Returning_Multiple_Values.executor": "Run",
-    "Python.04_Reverse_A_String.executor": "Run",
-    "Python.05_Default_Peremeter_Value.executor": "Run",
-    "Python.05_Find_First_Non_Repeated_Letter.executor": "Run",
-    "Python.05_Fruit_Ripeness_Checker.executor": "Run",
-    "Python.05_Polymorphism.executor": "Run",
-    "Python.05_Weather_Activity_Suggestion.executor": "Run",
-    "Python.06_Class_Variable.executor": "Run",
-    "Python.06_Factorial_Calculator.executor": "Run",
-    "Python.06_Lamda_Function.executor": "Run",
-    "Python.06_Mode_Of_Transportation.executor": "Run",
-    "Python.07_Coffee_Customization.executor": "Run",
-    "Python.07_Function_With_Args.executor": "Run",
-    "Python.07_Validate_Input.executor": "Run",
-    "Python.08_Function_With_Kwargs.executor": "Run",
-    "Python.08_Password_Strength_Checker.executor": "Run",
-    "Python.08_Prime_Number_Cheaker.executor": "Run",
-    "Python.09_Generator_Function_With_Yield.executor": "Run",
-    "Python.09_Leap_Year_Calculator.executor": "Run",
-    "Python.09_List_Uniqueness_Cheacker.executor": "Run",
-    "Python.10_Exponential_Backoff.executor": "Run",
-    "Python.10_Pet_Food_Reccomendation.executor": "Run",
-    "Python.10_Recursive_Function.executor": "Run",
-    "Python.learn.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01_Basic_Class Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Basic_Function_Syntax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Counting_Positive_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Class_Method_Self.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Function_With_Multiple_Paremeters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Sum_Of_Even_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_move_tickit_pricing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Grade_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Inheretence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Multiplication_Table_Printer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Polymorphism_in_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Function_Returning_Multiple_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Reverse_A_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Default_Peremeter_Value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Find_First_Non_Repeated_Letter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Fruit_Ripeness_Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Weather_Activity_Suggestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_Class_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_Factorial_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_Lamda_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_Mode_Of_Transportation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Coffee_Customization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Function_With_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Static_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Validate_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Function_With_Kwargs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Password_Strength_Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Prime_Number_Cheaker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Generator_Function_With_Yield.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Leap_Year_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_List_Uniqueness_Cheacker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Exponential_Backoff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Pet_Food_Reccomendation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Recursive_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +139,8 @@
       <workItem from="1764654451179" duration="8403000" />
       <workItem from="1764670206758" duration="2629000" />
       <workItem from="1764741975854" duration="1392000" />
-      <workItem from="1764751460286" duration="1542000" />
+      <workItem from="1764751460286" duration="2612000" />
+      <workItem from="1764827771113" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -476,7 +478,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764751907704</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Done Practice Object Oriented Programming Project 06">
+      <option name="closed" value="true" />
+      <created>1764754144179</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1764754144179</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Done Practice Object Oriented Programming Project 06">
+      <option name="closed" value="true" />
+      <created>1764754158366</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1764754158366</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Practice Loop Project 02" />
     <MESSAGE value="Done Practice Loop Project 03" />
     <MESSAGE value="Done Practice Loop Project 04" />
     <MESSAGE value="Done Practice Loop Project 05" />
@@ -536,7 +553,8 @@
     <MESSAGE value="Done Practice Object Oriented Programming Project 03" />
     <MESSAGE value="Done Practice Object Oriented Programming Project 04" />
     <MESSAGE value="Done Practice Object Oriented Programming Project 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Object Oriented Programming Project 05" />
+    <MESSAGE value="Done Practice Object Oriented Programming Project 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Practice Object Oriented Programming Project 06" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$03_Multiplication_Table_Printer.coverage" NAME="03_Multiplication_Table_Printer Coverage Results" MODIFIED="1764572566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
@@ -561,11 +579,12 @@
     <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1764227039598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$07_Coffee_Customization.coverage" NAME="07_Coffee_Customization Coverage Results" MODIFIED="1764570287150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$10_Recursive_Function.coverage" NAME="10_Recursive_Function Coverage Results" MODIFIED="1764661021370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
+    <SUITE FILE_PATH="coverage/PythonProject1$07_Static_Method.coverage" NAME="07_Static_Method Coverage Results" MODIFIED="1764754191964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Default_Peremeter_Value.coverage" NAME="05_Default_Peremeter_Value Coverage Results" MODIFIED="1764659001915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Function Problems" />
     <SUITE FILE_PATH="coverage/PythonProject1$06_Factorial_Calculator.coverage" NAME="06_Factorial_Calculator Coverage Results" MODIFIED="1764574461727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$learn.coverage" NAME="learn Coverage Results" MODIFIED="1764567917639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1764227150841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject1$06_Class_Variable.coverage" NAME="06_Class_Variable Coverage Results" MODIFIED="1764752402092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
+    <SUITE FILE_PATH="coverage/PythonProject1$06_Class_Variable.coverage" NAME="06_Class_Variable Coverage Results" MODIFIED="1764754093535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Oriented Programming" />
     <SUITE FILE_PATH="coverage/PythonProject1$01_Counting_Positive_Numbers.coverage" NAME="01_Counting_Positive_Numbers Coverage Results" MODIFIED="1764572060095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$05_Find_First_Non_Repeated_Letter.coverage" NAME="05_Find_First_Non_Repeated_Letter Coverage Results" MODIFIED="1764573038745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Loop Projects" />
     <SUITE FILE_PATH="coverage/PythonProject1$06_Mode_Of_Transportation.coverage" NAME="06_Mode_Of_Transportation Coverage Results" MODIFIED="1764569815627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
