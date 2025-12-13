@@ -1,7 +1,3 @@
-Here is a `README.md` file tailored for your repository, designed to showcase your learning progression from basic Python syntax to database management and API handling.
-
------
-
 # Learning Python From Scratch
 
 This repository documents my journey of learning Python from the ground up. It contains a collection of practice scripts, exercises, and mini-projects organized by topic, ranging from basic control flow to working with databases and APIs.
@@ -85,10 +81,4 @@ A CLI-based application to manage a list of favorite YouTube videos (Add, Update
     pip install pymongo requests
     ```
 
-## 📝 Author
-
-**Dharm3112**
-
------
-
-*Created as part of a Python learning roadmap.*
+*Created by [Dharm Patel](https://github.com/Dharm3112)*
