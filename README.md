@@ -80,7 +80,6 @@ A CLI-based application to manage a list of favorite YouTube videos (Add, Update
     ```bash
     pip install pymongo requests
     ```
-.
 
 
 *Created by [Dharm Patel](https://github.com/Dharm3112)*
