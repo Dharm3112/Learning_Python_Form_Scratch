@@ -1,5 +1,6 @@
 import time
 
+
 def cache(func):
     cache_value = {}
     print(cache_value)
